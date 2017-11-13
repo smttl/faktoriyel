@@ -1,0 +1,2 @@
+# faktoriyel
+Faktoriyel hesaplayıcı
